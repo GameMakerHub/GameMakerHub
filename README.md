@@ -3,7 +3,8 @@ The idea for GameMakerHub is to have a centralized, open-source, community-drive
 
 A few projects that will be part of GameMakerHub:
 
-- A centralized system for dependency management (https://github.com/GameMakerHub/GMDepMan)
+- A tool that mainly is a dependency manager, but in general helps you speed up your work (https://github.com/GameMakerHub/Catalyst)
+- A centralized package repository (https://github.com/GameMakerHub/repository)
 - Rules and suggestions for coding standards, to make collaboration easier (https://github.com/GameMakerHub/GameMakerStandards)
 - A bunch of packages that will be available inside the dependency management tool
 - Automation tools (Testing, building, deployments, integrations etc.)
